@@ -30,7 +30,7 @@ Here are some screenshots of the app:
 <img src="Cart.png" width="360"/>
 <img src="Checkout.png" width="360"/>
 <img src="Address.png" width="360"/>
-<img src="Address_display.png" width="360"/>
+<img src="Address-display.png" width="360"/>
 <img src="ProductInfo.png" width="360"/>
 <img src="ProductInfo_1.png" width="360"/>
 
