@@ -22,11 +22,19 @@
 
 Here are some screenshots of the app:
 
-![SignUp](Signup_screen.png)
-![Home_Screen](Home_Screen.png)
-![LoginScreen](Login_screen.png)
-![DemoPrompt](Demo_Prompt.png)
-![Toolbar](Tool_bar.png)
+<img src="Signup_screen.png" width="360"/>
+<img src="Login_screen.png" width="360"/>
+<img src="Home1.png" width="360"/>
+<img src="Home2.png" width="360"/>
+<img src="Home3.png" width="360"/>
+<img src="Cart.png" width="360"/>
+<img src="Checkout.png" width="360"/>
+<img src="Address.png" width="360"/>
+<img src="Address_display.png" width="360"/>
+<img src="ProductInfo.png" width="360"/>
+<img src="ProductInfo_1.png" width="360"/>
+
+
 
 ## Installation ⚙️
 
